@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ample-admin-lite-master:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ample_admin_lite_master_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ample-admin-lite-master/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ample-admin-lite-master" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
